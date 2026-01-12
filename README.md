@@ -1,4 +1,4 @@
-# 💫 About Me
+# Hi, I’m Anvit Ajgaokar
 
 👨‍💻 I’m a **Software Engineer** with ~2 years of hands-on experience in backend development, primarily working with **Java, Spring, and Spring Boot** to build scalable, enterprise-grade applications.  
 I also have experience with database design and integrating third-party services into reliable workflows.
