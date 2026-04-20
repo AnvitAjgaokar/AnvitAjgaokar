@@ -62,7 +62,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnvitAjgaokar&theme=dark&hide_border=true&include_all_commits=true&show_icons=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=AnvitAjgaokar&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AnvitAjgaokar&theme=dark&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnvitAjgaokar&theme=dark&hide_border=true&layout=compact)
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=AnvitAjgaokar&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=AnvitAjgaokar&color=1D9E75&style=flat-square&label=profile+views)
 
 </div>
 
